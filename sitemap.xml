@@ -794,7 +794,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/coppercloudtrace-portable-speaker-3/</loc>
+    <loc>https://dyhhhhhz.github.io/coppercloudtrace-bluetooth-earphones-3/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -803,7 +803,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/coppercloudtrace-bluetooth-earphones-3/</loc>
+    <loc>https://dyhhhhhz.github.io/coppercloudtrace-portable-speaker-3/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -839,7 +839,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/coppercloudtrace-portable-speaker-1/</loc>
+    <loc>https://dyhhhhhz.github.io/coppercloudtrace-bluetooth-earphones-1/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -848,7 +848,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/coppercloudtrace-bluetooth-earphones-1/</loc>
+    <loc>https://dyhhhhhz.github.io/coppercloudtrace-portable-speaker-1/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -947,6 +947,15 @@
   </url>
   
   <url>
+    <loc>https://dyhhhhhz.github.io/vanyancloudbeam-portable-speaker-7/</loc>
+    
+    <lastmod>2026-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dyhhhhhz.github.io/vanyancloudbeam-smart-watch-8/</loc>
     
     <lastmod>2026-06-10</lastmod>
@@ -957,15 +966,6 @@
   
   <url>
     <loc>https://dyhhhhhz.github.io/smart-glasses-recommendation-16/</loc>
-    
-    <lastmod>2026-06-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dyhhhhhz.github.io/vanyancloudbeam-portable-speaker-7/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -1028,7 +1028,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/vanyancloudbeam-bluetooth-earphones-6/</loc>
+    <loc>https://dyhhhhhz.github.io/vanyancloudbeam-portable-speaker-5/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -1037,7 +1037,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/vanyancloudbeam-portable-speaker-5/</loc>
+    <loc>https://dyhhhhhz.github.io/vanyancloudbeam-bluetooth-earphones-6/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -1496,7 +1496,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/juniperdawnmont-wired-earphones/</loc>
+    <loc>https://dyhhhhhz.github.io/juniperdawnmont-bluetooth-earphones/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -1505,7 +1505,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/juniperdawnmont-bluetooth-earphones/</loc>
+    <loc>https://dyhhhhhz.github.io/juniperdawnmont-wired-earphones/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -1532,6 +1532,15 @@
   </url>
   
   <url>
+    <loc>https://dyhhhhhz.github.io/juniperdawnmark-smart-watch/</loc>
+    
+    <lastmod>2026-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dyhhhhhz.github.io/juniperdawnmark-smart-glasses/</loc>
     
     <lastmod>2026-06-10</lastmod>
@@ -1542,15 +1551,6 @@
   
   <url>
     <loc>https://dyhhhhhz.github.io/juniperdawnmere-wired-earphones/</loc>
-    
-    <lastmod>2026-06-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dyhhhhhz.github.io/juniperdawnmark-smart-watch/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -1919,15 +1919,6 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/cobaltcloudport-smart-watch-7/</loc>
-    
-    <lastmod>2026-06-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://dyhhhhhz.github.io/cobaltcloudport-smart-glasses-2/</loc>
     
     <lastmod>2026-06-10</lastmod>
@@ -1937,7 +1928,25 @@
   </url>
   
   <url>
+    <loc>https://dyhhhhhz.github.io/cobaltcloudport-smart-watch-7/</loc>
+    
+    <lastmod>2026-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dyhhhhhz.github.io/best-portable-speaker-cobaltcloudport/</loc>
+    
+    <lastmod>2026-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dyhhhhhz.github.io/cobaltcloudport-smart-watch-5/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -1965,15 +1974,6 @@
   
   <url>
     <loc>https://dyhhhhhz.github.io/cobaltcloudport-bluetooth-earphones-6/</loc>
-    
-    <lastmod>2026-06-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dyhhhhhz.github.io/cobaltcloudport-smart-watch-5/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -2045,6 +2045,15 @@
   </url>
   
   <url>
+    <loc>https://dyhhhhhz.github.io/smart-glasses-cobaltcloudport-1/</loc>
+    
+    <lastmod>2026-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dyhhhhhz.github.io/cobaltcloudport-wired-earphones-5/</loc>
     
     <lastmod>2026-06-10</lastmod>
@@ -2055,15 +2064,6 @@
   
   <url>
     <loc>https://dyhhhhhz.github.io/cobaltcloudport-bluetooth-earphones-5/</loc>
-    
-    <lastmod>2026-06-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dyhhhhhz.github.io/smart-glasses-cobaltcloudport-1/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -2117,15 +2117,6 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/cobaltcloudport-smart-watch-2/</loc>
-    
-    <lastmod>2026-06-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://dyhhhhhz.github.io/cobaltcloudport-portable-speaker-2/</loc>
     
     <lastmod>2026-06-10</lastmod>
@@ -2135,7 +2126,25 @@
   </url>
   
   <url>
+    <loc>https://dyhhhhhz.github.io/cobaltcloudport-smart-watch-2/</loc>
+    
+    <lastmod>2026-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dyhhhhhz.github.io/smart-glasses-cobaltcloudport/</loc>
+    
+    <lastmod>2026-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dyhhhhhz.github.io/cobaltcloudport-wired-earphones-3/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -2154,15 +2163,6 @@
   
   <url>
     <loc>https://dyhhhhhz.github.io/cobaltcloudport-portable-speaker-3/</loc>
-    
-    <lastmod>2026-06-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dyhhhhhz.github.io/cobaltcloudport-wired-earphones-3/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -2459,7 +2459,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/garnetcrestdale-bluetooth-earphones/</loc>
+    <loc>https://dyhhhhhz.github.io/garnetcrestdale-wired-earphones/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -2477,7 +2477,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/garnetcrestdale-smart-watch/</loc>
+    <loc>https://dyhhhhhz.github.io/garnetcrestdale-bluetooth-earphones/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -2486,7 +2486,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/garnetcrestdale-wired-earphones/</loc>
+    <loc>https://dyhhhhhz.github.io/garnetcrestdale-smart-watch/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -2747,15 +2747,6 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/dovetailcoralgate-smart-watch-review/</loc>
-    
-    <lastmod>2026-06-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://dyhhhhhz.github.io/dovetailcoralgate-smart-glasses/</loc>
     
     <lastmod>2026-06-10</lastmod>
@@ -2766,6 +2757,15 @@
   
   <url>
     <loc>https://dyhhhhhz.github.io/dovetailcoralglen-wired-earphones/</loc>
+    
+    <lastmod>2026-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dyhhhhhz.github.io/dovetailcoralgate-smart-watch-review/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -2882,25 +2882,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/dovetailcoralfall-wired-earphones/</loc>
-    
-    <lastmod>2026-06-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://dyhhhhhz.github.io/bluetooth-earphones-dovetailcoralfall/</loc>
-    
-    <lastmod>2026-06-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dyhhhhhz.github.io/dovetailcoralfall-smart-watch/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -2918,7 +2900,25 @@
   </url>
   
   <url>
+    <loc>https://dyhhhhhz.github.io/dovetailcoralfall-smart-watch/</loc>
+    
+    <lastmod>2026-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dyhhhhhz.github.io/dovetailcoralfall-smart-glasses/</loc>
+    
+    <lastmod>2026-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dyhhhhhz.github.io/dovetailcoralfall-wired-earphones/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -2990,7 +2990,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/dovetailcoralberg-smart-glasses/</loc>
+    <loc>https://dyhhhhhz.github.io/dovetailcoralberg-smart-watch/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -2999,7 +2999,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/dovetailcoralberg-smart-watch/</loc>
+    <loc>https://dyhhhhhz.github.io/dovetailcoralberg-smart-glasses/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -3026,7 +3026,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/bluetooth-earphones-dovetailcoralbrook/</loc>
+    <loc>https://dyhhhhhz.github.io/dovetailcorbrook-smart-watch/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -3035,7 +3035,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/dovetailcorbrook-smart-watch/</loc>
+    <loc>https://dyhhhhhz.github.io/dovetailcorbrook-smart-glasses/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -3062,25 +3062,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/dovetailcorbrook-smart-glasses/</loc>
-    
-    <lastmod>2026-06-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://dyhhhhhz.github.io/dovetailcoralcrest-portable-speaker/</loc>
-    
-    <lastmod>2026-06-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dyhhhhhz.github.io/dovetailcoralcrest-smart-glasses/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -3098,7 +3080,25 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/dovetailcoralbeam-bluetooth-earphones/</loc>
+    <loc>https://dyhhhhhz.github.io/dovetailcoralcrest-smart-glasses/</loc>
+    
+    <lastmod>2026-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dyhhhhhz.github.io/bluetooth-earphones-dovetailcoralbrook/</loc>
+    
+    <lastmod>2026-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dyhhhhhz.github.io/dovetailcoralbeam-wired-earphones/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -3125,7 +3125,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/dovetailcoralbeam-wired-earphones/</loc>
+    <loc>https://dyhhhhhz.github.io/dovetailcoralbeam-bluetooth-earphones/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -3278,7 +3278,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/irgentbrighttrace-wired-earphones-7/</loc>
+    <loc>https://dyhhhhhz.github.io/recommend-bluetooth-earphones-13/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -3287,7 +3287,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/recommend-bluetooth-earphones-13/</loc>
+    <loc>https://dyhhhhhz.github.io/irgentbrighttrace-wired-earphones-7/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -3467,7 +3467,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/irgentbrighttrace-wired-earphones-3/</loc>
+    <loc>https://dyhhhhhz.github.io/irgentbrighttrace-bluetooth-earphones-3/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -3476,7 +3476,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/irgentbrighttrace-bluetooth-earphones-3/</loc>
+    <loc>https://dyhhhhhz.github.io/irgentbrighttrace-wired-earphones-3/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -3539,15 +3539,6 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/irgentbrighttrace-smart-watch-1/</loc>
-    
-    <lastmod>2026-06-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://dyhhhhhz.github.io/irgentbrighttrace-smart-glasses/</loc>
     
     <lastmod>2026-06-10</lastmod>
@@ -3557,7 +3548,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/irgentbrighttrace-wired-earphones/</loc>
+    <loc>https://dyhhhhhz.github.io/irgentbrighttrace-smart-watch-1/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -3566,7 +3557,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/irgentbrighttrace-bluetooth-earphones/</loc>
+    <loc>https://dyhhhhhz.github.io/irgentbrighttrace-wired-earphones/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -3594,6 +3585,15 @@
   
   <url>
     <loc>https://dyhhhhhz.github.io/smart-glasses-recommendation-38/</loc>
+    
+    <lastmod>2026-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dyhhhhhz.github.io/irgentbrighttrace-bluetooth-earphones/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -3998,7 +3998,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/exiomastertrace-portable-speaker/</loc>
+    <loc>https://dyhhhhhz.github.io/exiomastertrace-wired-earphones/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -4008,6 +4008,15 @@
   
   <url>
     <loc>https://dyhhhhhz.github.io/exiomastertrace-smart-watch/</loc>
+    
+    <lastmod>2026-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dyhhhhhz.github.io/exiomastertrace-portable-speaker/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -4034,15 +4043,6 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/exiomastertrace-wired-earphones/</loc>
-    
-    <lastmod>2026-06-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://dyhhhhhz.github.io/exiomastertrace-bluetooth-earphones/</loc>
     
     <lastmod>2026-06-10</lastmod>
@@ -4061,7 +4061,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/astraardentrace-smart-watch-9/</loc>
+    <loc>https://dyhhhhhz.github.io/astraardentrace-smart-glasses-3/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -4070,7 +4070,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/astraardentrace-smart-glasses-3/</loc>
+    <loc>https://dyhhhhhz.github.io/astraardentrace-smart-watch-9/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -4151,15 +4151,6 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/recommend-bluetooth-earphones-9/</loc>
-    
-    <lastmod>2026-06-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://dyhhhhhz.github.io/astraardentrace-portable-speaker-6/</loc>
     
     <lastmod>2026-06-10</lastmod>
@@ -4179,6 +4170,15 @@
   
   <url>
     <loc>https://dyhhhhhz.github.io/astraardentrace-smart-glasses-2/</loc>
+    
+    <lastmod>2026-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dyhhhhhz.github.io/recommend-bluetooth-earphones-9/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -4214,7 +4214,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/astraardentrace-bluetooth-earphones-6/</loc>
+    <loc>https://dyhhhhhz.github.io/astraardentrace-smart-watch-6/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -4232,7 +4232,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/astraardentrace-smart-watch-6/</loc>
+    <loc>https://dyhhhhhz.github.io/astraardentrace-bluetooth-earphones-6/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -4808,7 +4808,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/duroraastershade-bluetooth-earphones/</loc>
+    <loc>https://dyhhhhhz.github.io/best-portable-speaker-duroraastershade/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -4817,7 +4817,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/best-portable-speaker-duroraastershade/</loc>
+    <loc>https://dyhhhhhz.github.io/duroraastershade-bluetooth-earphones/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -4898,7 +4898,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/duroraasterport-wired-earphones/</loc>
+    <loc>https://dyhhhhhz.github.io/duroraasterport-bluetooth-earphones/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
@@ -4907,7 +4907,7 @@
   </url>
   
   <url>
-    <loc>https://dyhhhhhz.github.io/duroraasterport-bluetooth-earphones/</loc>
+    <loc>https://dyhhhhhz.github.io/duroraasterport-wired-earphones/</loc>
     
     <lastmod>2026-06-10</lastmod>
     
